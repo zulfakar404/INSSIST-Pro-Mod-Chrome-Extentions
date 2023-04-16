@@ -1,7 +1,7 @@
 <img src="https://inssist.com/static/img/hero-brand@2x.min.png" height="100px"/>
 
 # INSSIST Pro Mod | Chrome Extentions
-## Version: 2 4 . 0 . 1Version24.0.1
+## Version: 24.0.1
 INSSIST - INSTAGRAM ASSISTANT / Use Instagram on Your PC.
 
 A Chrome extension that lets you post Photos, Videos, Stories, Carousels &amp; Reels to Instagram™ from your Desktop, schedule posts, upload video covers, find relevant #hashtags and more.
