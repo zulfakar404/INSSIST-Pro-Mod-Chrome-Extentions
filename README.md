@@ -44,8 +44,11 @@ This project is solely for educational purposes and is a result of my personal i
 <br><br>
 
 # Video
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/lZivYY_2v4M/0.jpg)](https://www.youtube.com/watch?v=lZivYY_2v4M)
+[![YouTube](https://img.youtube.com/vi/lZivYY_2v4M/0.jpg)](https://www.youtube.com/watch?v=lZivYY_2v4M)
 
 <br><br>
 
 # Contact
+<a href="https://instagram.com/pe.jung.labs"><img src="https://instagram.com/favicon.ico"/><br>@pe.jung.labs</a>
+
+<a href="https://instagram.com/enjunglipret"><img src="https://instagram.com/favicon.ico"/><br>@enjunglipret</a>
