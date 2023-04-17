@@ -44,9 +44,7 @@ This project is solely for educational purposes and is a result of my personal i
 <br><br>
 
 # Video
-<p align="center">
-	<img src="https://inssist.com/static/img/iphone-mockup@2x.min.png"/ height="500px">
-</p>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/lZivYY_2v4M/0.jpg)](https://www.youtube.com/watch?v=lZivYY_2v4M)
 
 <br><br>
 
