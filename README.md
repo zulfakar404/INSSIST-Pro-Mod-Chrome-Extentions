@@ -1,7 +1,7 @@
 <img src="https://inssist.com/static/img/hero-brand@2x.min.png" height="100px"/>
 
 # INSSIST Pro Mod | Chrome Extentions
-## Version: 25.1.4
+## Version: 26.4.2
 INSSIST - INSTAGRAM ASSISTANT / Use Instagram on Your PC.
 
 A Chrome extension that lets you post Photos, Videos, Stories, Carousels &amp; Reels to Instagram™ from your Desktop, schedule posts, upload video covers, find relevant #hashtags and more.
@@ -37,8 +37,8 @@ With Inssist PRO You can post Reels to Instagram from Desktop! You can also sele
 # Disclaimer
 This project is solely for educational purposes and is a result of my personal interest and curiosity. I do not guarantee the accuracy or completeness of any information presented in this project. The use of any information in this project is at your own risk, and I am not responsible for any damages that may arise from the use of this project.
 
-### If you enjoyed using this shit and you're a big fan of this shit.
-### I highly recommend buying the program as a way to show some love and respect to the developer. They put in a lot of time and effort to create something cool, so why not give them a little something in return?
+### IF YOU ENJOYED USING THIS SHIT AND YOU'RE A BIG FAN OF THIS SHIT.
+### I HIGHLY RECOMMEND BUYING THE PROGRAM AS A WAY TO SHOW SOME LOVE AND RESPECT TO THE DEVELOPER. THEY PUT IN A LOT OF TIME AND EFFORT TO CREATE SOMETHING COOL, SO WHY NOT GIVE THEM A LITTLE SOMETHING IN RETURN?
 ### Thank you for your understanding.
 
 <br><br>
